@@ -49,6 +49,11 @@ input:focus {
     border-color: #9400FF;
 }
 
+.gambarPersegiSection {
+    display: flex;
+    justify-content: center;
+}
+
 .luasInputSection {
     display: flex;
     flex-direction: column;
